@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app_server",
+    "\\app_server\\views",
+    "\\app_server\\views\\partials",
+    "\\bin",
+    "\\controllers",
+    "\\data",
+    "\\public",
+    "\\public\\images",
+    "\\public\\stylesheets"
+  ],
+  "SelectedNode": "\\package-lock.json",
+  "PreviewInSolutionExplorer": false
+}
