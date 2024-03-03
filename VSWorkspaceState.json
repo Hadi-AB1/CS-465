@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app_server",
+    "\\app_server\\routes",
+    "\\app_server\\views",
+    "\\app_server\\views\\partials",
+    "\\bin",
+    "\\data",
+    "\\public",
+    "\\public\\css",
+    "\\public\\images"
+  ],
+  "PreviewInSolutionExplorer": false
+}
