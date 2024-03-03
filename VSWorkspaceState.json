@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app_admin",
+    "\\app_admin\\e2e",
+    "\\app_admin\\e2e\\src",
+    "\\app_admin\\src",
+    "\\app_admin\\src\\app",
+    "\\app_api",
+    "\\app_api\\controllers",
+    "\\app_api\\routes",
+    "\\public",
+    "\\public\\images"
+  ],
+  "SelectedNode": "\\env",
+  "PreviewInSolutionExplorer": false
+}
